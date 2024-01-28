@@ -1,4 +1,4 @@
-Welcome to my Chess Game repository! This project is a command-line implementation of the classic game of chess written in Java. I did this project with my partner Charley Hatterman at the Univeristy of Minnesota. 
+Welcome to my Chess Game repository! This project is a command-line implementation of the classic game of chess written in Java. This project was completed with my partner Charley Hatterman at the Univeristy of Minnesota. 
 
 Features:
 * Full Chess Game: Play a complete game of chess against another human player.
