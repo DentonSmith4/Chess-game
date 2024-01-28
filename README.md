@@ -1,21 +1,13 @@
-CSCI_1933_Project_2
-Denton Smith smi02055
-Charley Hatterman hatte064
-Compile & run:
-Open zip file, this should open 1933_Project_2 that contains the readme file 
-as well as all the other classes needed to run the chess Game.
-Assumptions: 
-The user knows how to play chess.
-Additional features:
-The user can type reset to reset the board or quit to end the 
-game at any time.
-Contrabutions:
-We both worked together on the entire thing.
-Known bugs:
-None.
-I certify that the information contained in this README file is complete and accurate.
-I have both read and followed the course policies in the ‘Academic Integrity- 
-Course Policy’ section of the course syllabus.
+Welcome to my Chess Game repository! This project is a command-line implementation of the classic game of chess written in Java. I did this project with my partner Charley Hatterman at the Univeristy of Minnesota. 
 
-Denton Smith
-Charley Hatterman 
+Features:
+* Full Chess Game: Play a complete game of chess against another human player.
+* Move Validation: Ensure that all moves adhere to the rules of chess.
+* Check and Checkmate Detection: Detect when a player is in check or has been checkmated.
+* Pawn Promotion: Implementation of special chess moves and rules.
+
+
+Contributions:
+Denton + Charley - Bishop.java, Category.java, Fen.java, Game.java, King.java, Knight.java, Queen.java, and Rook.java
+University of Minnesota - Pawn.java & Fen.java
+University of Minnesota + Denton + Charley - Board.java & Piece.java
