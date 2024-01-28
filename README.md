@@ -8,6 +8,9 @@ Features:
 
 
 Contributions:
+
 Denton + Charley - Bishop.java, Category.java, Fen.java, Game.java, King.java, Knight.java, Queen.java, and Rook.java
+
 University of Minnesota - Pawn.java & Fen.java
+
 University of Minnesota + Denton + Charley - Board.java & Piece.java
